@@ -31,7 +31,7 @@ p, h1 {
 @media(max-width: 768px) {
 
 	.logo img {
-		margin: 15px 0 0 15px;
+		margin: 10px 0 0 15px;
 	}
 
 	.navbar-nav {
@@ -83,4 +83,26 @@ p, h1 {
 
 .btn-success:hover {
 	background-color: #000;
+}
+
+/*PHOTO*/
+
+#photo {
+	background-color: #f5f6f7;
+	padding: 80px 0 80px 0;
+	text-align: center;
+}
+
+#photo h1 {
+	font-size: 1.2em;
+	font-weight: 700;
+	color: #16a085;
+}
+
+#photo .fa {
+	color: #16a085;
+}
+
+#photo .fa:hover {
+	color: #0e5d4e;
 }
