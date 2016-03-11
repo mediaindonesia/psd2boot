@@ -43,6 +43,10 @@ p, h1 {
 		margin-top: 45px;
 	}
 
+	#design {
+		text-align: center;
+	}
+
 }
 
 /*SLIDER*/
@@ -105,4 +109,17 @@ p, h1 {
 
 #photo .fa:hover {
 	color: #0e5d4e;
+}
+
+/*DESIGN*/
+
+#design {
+	padding: 80px 0 80px;
+}
+
+#design h1 {
+	font-size: 1.5em;
+	font-size: 700;
+	color: #16a085;
+	padding-top: 30px;
 }
