@@ -47,6 +47,10 @@ p, h1 {
 		text-align: center;
 	}
 
+	#community .image {
+		padding-bottom: 15px;
+	}
+
 }
 
 /*SLIDER*/
@@ -121,5 +125,22 @@ p, h1 {
 	font-size: 1.5em;
 	font-size: 700;
 	color: #16a085;
+	padding-top: 30px;
+}
+
+/*COMMUNITY*/
+
+#community {
+	background-color: #f5f6f7;
+	padding: 80px 0 80px;
+}
+
+#community h1 {
+	font-size: 1.5em;
+	font-weight: 700;
+	color: #16a085;
+}
+
+#community .green {
 	padding-top: 30px;
 }
